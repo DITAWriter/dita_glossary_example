@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="fog_signals">
+    <title>Fog Signals</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p>A steam vessel must be provided with a whistle operated by steam or air.</p>
+            <p>A sailing vessel must be provided with a horn.</p>
+            <p>In fog, mist, falling snow, or heavy rainstorms, whether by day or night, the signals
+                described shall be used:</p>
+            <p>A steam vessel underway shall sound, at intervals of not more than one minute, a
+                prolonged blast.</p>
+            <p>A sailing vessel underway shall sound, at intervals of not more than one minute, when
+                on the <term keyref="starboard">starboard</term>
+                <term keyref="tack">tack</term>, one blast; when on the <term keyref="port"
+                    >port</term>
+                <term keyref="tack">tack</term>, two blasts in succession, and when with the wind
+                    <term keyref="abaft">abaft</term> the beam, three blasts in succession.</p>
+            <p>A vessel when at <term keyref="anchor">anchor</term> shall, at intervals of not more
+                than one minute, ring the bell rapidly for about five seconds.</p>
+            <p>A steam vessel when towing shall, instead of the signal prescribed above, at
+                intervals of not more than one minute, sound three blasts in succession, namely, one
+                prolonged blast followed by two short blasts. A vessel towed may give this signal
+                and she shall not give any other.</p>
+            <p>All rafts or other water craft, not herein provided for, navigating by hand power,
+                horse-power, or by the current of the river, shall sound a blast of the fog horn, or
+                equivalent signal, at intervals of not more than one minute.</p>
+        </section>
+    </refbody>
+</reference>

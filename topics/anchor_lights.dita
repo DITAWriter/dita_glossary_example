@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="anchor_lights">
+    <title>Anchor Lights</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p>A vessel when at <term keyref="anchor">anchor</term> must keep burning a white light,
+                throwing an unbroken flare in every direction; this light should be hoisted above
+                the deck the height of the vessel's breadth.</p>
+            <p>All lights must be carried from sunset to sunrise; no other lights should be
+                shown.</p>
+        </section>
+    </refbody>
+</reference>

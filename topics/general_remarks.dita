@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="general_remarks">
+    <title>General Remarks</title>
+    <shortdesc/>
+    <conbody>
+        <p>If you are going to learn to sail get a small boat. Men who learn in large boats seldom
+            become good helmsmen. Another thing, do not learn in what is called a non-capsizable
+            boat; get a boat that can be upset. The modern outside <term keyref="ballast"
+                >ballast</term>, non-capsizable, finkeel or semi-finkeel, is a very easy vessel to
+            handle, and it requires very little skill to sail them; as a fact, you don't sail them;
+            you simply <term keyref="steer">steer</term> them. The old-fashioned, inside <term
+                keyref="ballast">ballast</term>, capsizable, long-<term keyref="keel">keel</term>
+            craft was a very different proposition, and it required considerable skill to handle
+            such properly. It is for this reason that the best sailors we have ever had graduated
+            from the helms of that type of boat.</p>
+
+        <p>The best boat for a boy to get to learn in is one of not more than twenty feet length; a
+            fifteen-footer is better. She should be half-decked, and be of such construction and
+            weight that even if filled she will float. It is better to have a boat that requires
+            little or no <term keyref="ballast">ballast</term>. If in a place where the water is
+            generally smooth, the Lark type is an excellent craft to learn in; if where it is rough,
+            get one of those cheap sailing dories. The Rudder Skip is also a good boat, but is
+            somewhat more expensive. Another good boat for a beginner is a 15-foot, half-decked,
+            cat-rigged boat; a boat with considerable freeboard and a water-tight cockpit. Such a
+            boat can be built in first-class style for about $250 or $300. I strongly advise the
+            beginner to use the <term keyref="cat_rig">cat rig</term>, no matter what type of <term
+                keyref="hull">hull</term> he employs.</p>
+
+        <fig>
+            <title>Wind abeam</title>
+            <image href="../images/illus-011.jpg"/>
+        </fig>
+
+        <p>Many begin in a rowboat, fitted with a sail. These are generally poor craft, not being of
+            the proper form for sailing. While they will do, if nothing better can be had, they are
+            far inferior to a properly designed sailing dory or a Lark. If the beginner starts in a
+            poor sailing craft he is apt to get disgusted with the results of his work and give
+            up.</p>
+
+        <p>After you have learned to handle a boat under <term keyref="cat_rig">cat rig</term> you
+            can get one with a jib, and learn to sail the more complicated rig. It is not best at
+            first to go in for too many sails, as it means much more gear and this is apt to confuse
+            the beginner, and make the task of learning harder.</p>
+
+        <fig>
+            <title>Diagram A.—Deck Plan of Yacht</title>
+            <image href="../images/illus-013.jpg"/>
+        </fig>
+
+        <p>By starting to learn to sail in a capsizable boat you will gather the first and most
+            important part of sailorizing, and that is caution, and you will gain from sailing such
+            a boat that nicety of touch which is the acme of helming skill, and which can never be
+            acquired in an uncapsizable craft. Knowing that inattention to your work will perhaps
+            result in a <term keyref="spill">spill</term>, you will be constantly on the alert, and
+            you will learn that by quick and proper movements of the <term keyref="helm">helm</term>
+            you can control and maneuvre your boat so as to keep her on her bottom at all times.</p>
+
+        <p>If you have your boat ready take a day when the wind is light and steady and get somebody
+            to go with you who understands sailing. Let the old hand tend the sheet while you handle
+            the tiller. Then sail up and down in a quiet place until you get confidence in the boat
+            and in yourself. This will soon come when you find that you can perform the different
+            sailing maneuvres. It is a good plan after you have the hang of handling the tiller to
+            choose a mark to <term keyref="windward">windward</term>, and to start and beat up to
+            it, then turn the mark and run back again. Repeat this several times as it will give you
+            practice in sailing both on and off the wind.</p>
+
+        <fig>
+            <title>Off the Wind</title>
+            <image href="../images/illus-015.jpg"/>
+        </fig>
+
+        <p>If the wind is strong and you feel afraid of the boat, don't go out, but wait until the
+            conditions are more favorable to have your first try. If you get afraid or rattled, as
+            it is called, by the boat getting a knockdown in a puff, just let her come up in the
+            wind and rest, and you will see that she is perfectly safe, and your courage will soon
+            return.</p>
+
+        <p>I have taught many—both boys and girls—to sail, and I always put them right at the
+                <term keyref="helm">helm</term>, and insist upon them staying there. If they get in
+            a tight place the beginner will generally want to give up the <term keyref="helm"
+                >helm</term>. At such a time I make them retain it, and by a little judicious advice
+            and a few words of encouragement get them through the difficulty. This at once instills
+            confidence. One of my favorite tricks is when the green hand is approaching the shore on
+            a <term keyref="tack">tack</term> to leave him and go below, pretending to pay no
+            attention to his actions. If he is good for anything, he will when the right time
+            arrives go about. Once he has done this by himself he is confident, and will not
+            hesitate to do it again. This is the principal thing to make a beginner understand, that
+            he must depend upon his own judgment and not rely upon yours.</p>
+
+        <p>Some persons can never be taught to sail. They can learn to <term keyref="steer"
+                >steer</term> perhaps, but never can learn to handle a sailing boat. I have found
+            that comparatively few females can learn to sail, but when they have the sailor's
+            instinct it is very strongly developed, and they make excellent skippers. They are far
+            more fearless than men, and can invariably be relied upon to carry out orders, even to
+            the death.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="miss_staying">
+    <title>Miss-staying</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Our modern yachts unlike the old fashioned kind seldom <term keyref="miss_stay"
+                    >miss-stay</term>, except when attempted to <term keyref="tack">tack</term> in a
+                heavy seaway. The cause of miss-staying is generally either carelessness or haste.
+                Always give the boat a good full and have <term keyref="way">way</term> on her
+                before you put the <term keyref="helm">helm</term> down. If a boat <term
+                    keyref="miss_stay">miss-stay</term> and get in <term keyref="irons">irons</term>
+                do not jam the <term keyref="helm">helm</term> hard over, but keep it <term
+                    keyref="amidship">amidship</term> until she gathers stern-way then move it over
+                slowly. Remember that the <term keyref="helm">helm</term> when a boat is going stern
+                first acts the opposite to what it does when she is going <term keyref="ahead"
+                    >ahead</term>. If a <term keyref="centerboard">centerboard</term> boat pull up
+                the board. If she still refuses to fill, drop the peak.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

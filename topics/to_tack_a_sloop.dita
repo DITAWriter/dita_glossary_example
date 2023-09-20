@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="to_tack_a_sloop">
+    <title>To Tack a Sloop</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>A sloop or any rig carrying headsails can be tacked as follows: When ready to go
+                about, ease the jib sheet, putting down the <term keyref="helm">helm</term> at the
+                same time; as the boat's head comes into the wind, <term keyref="haul">haul</term>
+                in the same sheet that you just eased, so as to get that sail <term keyref="aback"
+                    >aback</term>; as she swings off <term keyref="slack">slack</term> the <term
+                    keyref="weather">weather</term> sheet and <term keyref="haul">haul</term>
+                <term keyref="aft">aft</term> the lee one.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

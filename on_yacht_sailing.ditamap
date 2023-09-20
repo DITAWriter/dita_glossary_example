@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="on_yacht_sailing">
+    <booktitle>
+        <mainbooktitle>On Yacht Sailing</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <authorinformation>
+            <organizationinfo>
+                <namedetails>
+                    <personname>
+                        <firstname>Thomas</firstname>
+                        <middlename>Fleming</middlename>
+                        <lastname>Day</lastname>
+                        <otherinfo>Editor of "The Rudder," Author of "On Yachts and Yacht Handling,"
+                            "Hints to Young Yacht Skippers," "Songs of Sea and Sail,"
+                            etc.</otherinfo>
+                    </personname>
+                </namedetails>
+                <addressdetails><locality>New York, New York</locality></addressdetails>
+            </organizationinfo>
+        </authorinformation>
+        <publisherinformation>
+            <organization>The Rudder Publishing Company</organization>
+            <published>
+                <completed>
+                    <year>1904</year>
+                </completed>
+            </published>
+        </publisherinformation>
+        <permissions view="restricted"/>
+    </bookmeta>
+    <frontmatter>
+        <!--<booklists> 
+            <toc/>
+        </booklists>-->
+    </frontmatter>
+    <chapter keys="preface" href="topics/preface.dita"/>
+    <chapter keys="special_remarks" href="topics/special_remarks.dita"/>
+    <chapter keys="general_remarks" href="topics/general_remarks.dita"/>
+    <chapter keys="the_boat_and_rig" href="topics/the_boat_and_rig.dita"/>
+    <chapter keys="the_sides_and_tacks" href="topics/the_sides_and_tacks.dita"/>
+    <chapter keys="the_helm" href="topics/the_helm.dita"/>
+    <chapter keys="nomenclature_of_rigging_and_sail"
+        href="topics/nomenclature_of_rigging_and_sail.dita"/>
+    <chapter keys="sailing_on_the_wind" href="topics/sailing_on_the_wind.dita"/>
+    <chapter keys="reefing_and_jibing" href="topics/reefing_and_jibing.dita"/>
+    <chapter keys="sailing_off_the_wind" href="topics/sailing_off_the_wind.dita"/>
+    <chapter keys="taking_care_of_the_boat" href="topics/taking_care_of_the_boat.dita"/>
+    <chapter keys="meaneuvers" href="topics/maneuvers.dita">
+        <topicref keys="to_tack" href="topics/to_tack.dita"/>
+        <topicref keys="to_tack_a_sloop" href="topics/to_tack_a_sloop.dita"/>
+        <topicref keys="to_tack_a_yawl" href="topics/to_tack_a_yawl.dita"/>
+        <topicref keys="tacking_small_boats" href="topics/tacking_small_boats.dita"/>
+        <topicref keys="miss_staying" href="topics/miss_staying.dita"/>
+        <topicref keys="to_wear" href="topics/to_wear.dita"/>
+        <topicref keys="to_anchor" href="topics/to_anchor.dita"/>
+        <topicref keys="to_get_underway" href="topics/to_get_underway.dita"/>
+        <topicref keys="to_cast" href="topics/to_cast.dita"/>
+    </chapter>
+    <chapter keys="rules_of_the_road" href="topics/rules_of_the_road.dita">
+        <topicref keys="running_lights" href="topics/running_lights.dita"/>
+        <topicref keys="anchor_lights" href="topics/anchor_lights.dita"/>
+        <topicref keys="fog_signals" href="topics/fog_signals.dita"/>
+        <topicref keys="steam_vessel_signals" href="topics/steam_vessel_signals.dita"/>
+    </chapter>
+    <backmatter>
+        <booklists>
+            <glossarylist>
+                <mapref href="glossary_map.ditamap"/>
+            </glossarylist>
+            <indexlist/>
+        </booklists>
+
+        <!-- Reusable image references -->
+        <!-- <mapref format="ditamap" href="images/m_reusableImageReferences.ditamap"/> -->
+
+        <!-- Keystore -->
+        <!-- <mapref format="ditamap" href="b25_keystore.ditamap"/> -->
+
+        <!-- Keystore -->
+        <!-- <mapref format="ditamap" href="conkeyref_keystore.ditamap"/> -->
+    </backmatter>
+
+
+</bookmap>

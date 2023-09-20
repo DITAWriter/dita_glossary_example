@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="steam_vessel_signals">
+    <title>Steam Vessel Signals</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p><i>One blast</i>—I am directing my <term keyref="course">course</term> to <term
+                    keyref="starboard">starboard</term>.</p>
+            <p><i>Two blasts</i>—I am directing my <term keyref="course">course</term> to <term
+                    keyref="port">port</term>.</p>
+            <p><i>Three blasts</i>—I am going <term keyref="astern">astern</term>.</p>
+            <p>The vessel that blows first has the right of <term keyref="way">way</term>.</p>
+            <p>Passing through narrow channels a vessel must keep to that bank of the fairway which
+                is on her <term keyref="starboard">starboard</term> hand.</p>
+        </section>
+    </refbody>
+</reference>

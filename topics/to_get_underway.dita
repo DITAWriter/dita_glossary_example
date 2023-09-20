@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="to_get_underway">
+    <title>To Get Underway</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>If at <term keyref="hull">hull</term> before making sail heave in short on your
+                hawser or chain, but be careful not to take in enough to trip the hook, then cast
+                loose and hoist the sail, when ready heave in and break the <term keyref="hull"
+                    >hull</term> out of the bottom.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

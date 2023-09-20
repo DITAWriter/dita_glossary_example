@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="rules_of_the_road">
+    <title>Rules of the Road</title>
+    <shortdesc/>
+    <conbody>
+        <p>The rules of the road are the rules governing the movements of vessels when underway.
+            They are laws enacted by an agreement between all maritime nations, and obedience to
+            them is compulsory. If in case of a collision, it is proved that one of the parties has
+            violated a rule of the road, the damages lie against the violator. Yachtsmen should
+            thoroughly learn and understand these rules, and should always maintain and obey
+            them.</p>
+
+        <p>A <i>steam vessel</i> is any vessel propelled by machinery—this includes naphtha,
+            gasolene, kerosene and electric launches.</p>
+
+        <p>A <i>sailing vessel</i> is a vessel wholly propelled by sails.</p>
+
+        <p>An <i>auxiliary</i> yacht when using her engines, no matter whether she has sail set or
+            not is a <i>steam vessel</i>. If not using her engine she is a sailing vessel.</p>
+
+        <p>Steam vessels must keep out of the <term keyref="way">way</term> of sailing vessels;
+            sailing vessels must keep out of the <term keyref="way">way</term> of row-boats.</p>
+
+        <p>Vessels of all kinds, when underway, must keep clear of anchored craft or craft lying
+            idle or <term keyref="hove_to">hove-to</term>.</p>
+
+        <p>Overtaking vessels must keep clear of vessels overtaken. A sailing vessel overtaking a
+            launch must keep clear of the launch.</p>
+
+        <p>When two sailing vessels are approaching one another, so as to involve risk of collision,
+            one of them shall keep out of the <term keyref="way">way</term> of the other as
+            follows:</p>
+
+        <p>A vessel which is running free shall keep out of the <term keyref="way">way</term> of a
+            vessel which is close-hauled.</p>
+
+        <p>A vessel which is close-hauled on the <term keyref="port">port</term>
+            <term keyref="tack">tack</term> shall keep out of the <term keyref="way">way</term> of a
+            vessel which is close-hauled on the <term keyref="starboard">starboard</term>
+            <term keyref="tack">tack</term>.</p>
+
+        <p>When both are running free, with the wind on different sides, the vessel which has the
+            wind on the <term keyref="port">port</term> side shall keep out of the <term
+                keyref="way">way</term> of the other.</p>
+
+        <p>When both are running free, with the wind on the same side, the vessel which is to the
+                <term keyref="windward">windward</term> shall keep out of the <term keyref="way"
+                >way</term> of the vessel which is to the <term keyref="leeward">leeward</term>.</p>
+
+        <p>A vessel which has the wind <term keyref="aft">aft</term> shall keep out of the <term
+                keyref="way">way</term> of the other vessel.</p>
+    </conbody>
+</concept>

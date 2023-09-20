@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="the_sides_and_tacks">
+    <title>The Sides and Tacks</title>
+    <shortdesc/>
+    <conbody>
+        <p>The sides of a boat have two sets of names, the use of which is apt to confuse the green
+            hand, but if you once clearly understand how these terms are applied you will experience
+            no trouble in properly employing them.</p>
+
+        <p>The right-hand side of a vessel when standing looking toward the <term keyref="bow"
+                >bow</term> is called the <term keyref="starboard">starboard</term> side.</p>
+
+        <p>The left-hand side of a vessel when standing looking toward the <term keyref="bow"
+                >bow</term> is called the <term keyref="port">port</term> side.</p>
+
+        <p>These names are permanent, and no matter which way the boat is turned the <term
+                keyref="starboard">starboard</term> side is always the <term keyref="starboard"
+                >starboard</term> side and the <term keyref="port">port</term> side always the <term
+                keyref="port">port</term> side.</p>
+
+        <p>The other names for the sides of a vessel are not permanent, but are always changing,
+            shifting from side to side, as the boat is turned about. Their particular position is
+            determined by the direction of the wind.</p>
+
+        <p>These names are <i>lee side</i> and <term keyref="weather">weather</term>.</p>
+
+        <fig>
+            <title> Siling Dories</title>
+            <image href="../images/illus-023.jpg" alt="Sailing dories"/>
+        </fig>
+
+        <p>The <term keyref="weather">weather</term> is that side of a vessel upon which the wind
+            blows.</p>
+
+        <p>The <i>lee side</i> is that side of the vessel which is farthest from the wind, and is,
+            in a <term keyref="fore_and_aft">fore-and-aft</term> rigged craft, the side on which the
+            sail is stretched.</p>
+
+        <p>Now you will understand that, in consequence of the vessel turning round and presenting
+            first one side to the wind and then the other, these names are continually shifting from
+            side to side.</p>
+
+        <p>For instance, if the wind is blowing on the <term keyref="port">port</term>—left-hand
+            side—that is the <term keyref="weather">weather</term> side, and the <term
+                keyref="starboard">starboard</term>—right-hand side—is the lee side. Turning the
+            vessel round, so that the wind blows on the <term keyref="starboard">starboard</term>
+            side, that becomes the <term keyref="weather">weather</term> side, and the <term
+                keyref="port">port</term> side becomes the lee side.</p>
+
+        <p>Having these sides and their names clearly fixed in your mind you will be able to
+            understand what a <term keyref="tack">tack</term> is.</p>
+
+        <p>When a vessel is sailing on a wind we say she is on the <term keyref="port">port</term>
+            <term keyref="tack">tack</term> or <term keyref="starboard">starboard</term>
+            <term keyref="tack">tack</term>, meaning the <term keyref="way">way</term> she is
+            heading in regard to the direction of the wind. This <term keyref="tack">tack</term> is
+            determined by the side upon which the wind blows.</p>
+
+        <p>A vessel is on the <term keyref="starboard">starboard</term>
+            <term keyref="tack">tack</term> when the wind strikes upon her <term keyref="starboard"
+                >starboard</term> side and the <term keyref="boom">boom</term> of her mainsail is
+            over on the <term keyref="port">port</term> side. The reverse of this puts her on the
+                <term keyref="port">port</term>
+            <term keyref="tack">tack</term>.</p>
+
+        <p>Or, to be more concise, when the <term keyref="starboard">starboard</term> side is the
+                <term keyref="weather">weather</term> side the boat is on the <term
+                keyref="starboard">starboard</term>
+            <term keyref="tack">tack</term>. When the <term keyref="port">port</term> side is the
+                <term keyref="weather">weather</term> side the boat is on the <term keyref="port"
+                >port</term>
+            <term keyref="tack">tack</term>.</p>
+    </conbody>
+</concept>

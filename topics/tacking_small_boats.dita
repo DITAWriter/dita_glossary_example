@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tacking_small_boats">
+    <title>Tacking Small Boats</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>Small open boats such as dingeys and skiffs which
+                are slow at staying can be materially helped by moving
+                the weight of the crew forward as they come to the
+                wind, and again <term keyref="aft">aft</term> as they fall off.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

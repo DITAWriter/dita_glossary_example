@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="to_wear">
+    <title>To Wear</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>Wearing or veering is the opposite of tacking. In a heavy sea when there is danger of
+                a boat miss-staying it is better to <term keyref="wear_or_veer">wear</term>. To
+                    <term keyref="wear_or_veer">wear</term>, get your sheet in flat, then put the
+                    <term keyref="helm">helm</term> up slowly and as she pays-off, ease the sheet
+                gradually. To <term keyref="wear_or_veer">wear</term> a yawl ease off the mizzen,
+                keep the mainsail flat, and <term keyref="haul">haul</term> the jib <term
+                    keyref="a_weather">a-weather</term>. In a <term keyref="centerboard"
+                    >centerboard</term> boat <term keyref="haul">haul</term> up the <term
+                    keyref="board">board</term>. In a catboat if she refuse to <term
+                    keyref="wear_or_veer">wear</term> drop the peak.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

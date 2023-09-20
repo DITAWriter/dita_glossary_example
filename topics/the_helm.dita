@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="the_helm">
+    <title>The Helm</title>
+    <shortdesc/>
+    <conbody>
+        <p>A boat or any vessel is steered by a contrivance called a rudder, which is hung like a
+            door on hinges, and swings freely from side to side. This rudder is moved by a handle
+            called a tiller, which is attached to the post and projects forward into the boat. The
+            whole apparatus for steering the boat is called the <term keyref="helm">helm</term>, but
+            in this chapter, when we speak of the <term keyref="helm">helm</term>, it must be
+            understood to mean the <i>tiller</i>.</p>
+
+        <p>When the <term keyref="helm">helm</term> is put, i.&nbsp;e., pushed in one direction, the
+            rudder moves in the other. For instance, if the <term keyref="helm">helm</term> is
+            turned to the right the rudder moves to the left, and vice versa. The result of such a
+            movement of the <term keyref="helm">helm</term> is to turn the boat's <term keyref="bow"
+                >bow</term> in the direction the rudder points, so that the boat's <term
+                keyref="bow">bow</term>, or head as we say, turns the opposite way to the way the
+            tiller is pushed. Remember, that if you put the <term keyref="helm">helm</term> to the
+            left the boat's head will turn to the right; if you put the <term keyref="helm"
+                >helm</term> to the right it will turn to the left.</p>
+
+        <fig>
+            <title>Shoal-Draught Sloop</title>
+            <image href="../images/illus-027.jpg"/>
+        </fig>
+
+        <p>The left side of the boat, as I have explained, is always called the <term keyref="port"
+                >port</term> side; therefore, if I order you to put your <term keyref="helm"
+                >helm</term> to <term keyref="port">port</term> you must push the tiller toward the
+            left. This will move the rudder toward the <term keyref="starboard">starboard</term>
+            side, and as the boat's <term keyref="bow">bow</term> moves the same way as the rudder
+            it will also move to <term keyref="starboard">starboard</term>.</p>
+
+        <p>But in a sailing vessel, when going under canvas, we do not usually order the <term
+                keyref="helm">helm</term> to be put to <term keyref="starboard">starboard</term> or
+                <term keyref="port">port</term>, but employ terms that derive their signification
+            from the direction of the wind under whose influence the vessel is moving. These terms
+            are <i>up</i> and <i>down</i>, and <i><term keyref="a-lee">a-lee</term></i> and <term
+                keyref="a-weather">a-weather</term>.</p>
+
+        <p>To put the <term keyref="helm">helm</term>
+            <i>up</i> you push the tiller toward the side of the boat on which the wind is blowing.
+            This causes the vessel to move her head away from the wind—to <i>fall off</i>, as it is
+            called.</p>
+
+        <p>To put the <term keyref="helm">helm</term>
+            <i>down</i> you push the tiller toward the side on which the sail is. This causes the
+            vessel to move her head toward the wind—to <term keyref="luff">luff</term> as it is
+            called.</p>
+
+        <p>The easiest way to fix these two actions in the wind is this: When a boat is heeled,
+            i.&nbsp;e., tipped, as she usually is when sailing on the wind, the <term keyref="helm"
+                >helm</term> is put up by moving it toward the high or up side, and it is put down
+            by moving it toward the low or down side.</p>
+
+        <p>To put the <term keyref="helm">helm</term>
+            <term keyref="a-weather">a-weather</term> is the same as putting it <i>up</i>, or toward
+            the <term keyref="weather">weather</term> side of the boat. To put the <term
+                keyref="helm">helm</term>
+            <i><term keyref="a-lee">a-lee</term></i> is the same as putting it <i>down</i> or toward
+            the lee side of the boat.</p>
+
+        <p><i>Up—<term keyref="a-weather">a-weather</term>.</i></p>
+
+        <p><i>Down—<term keyref="a-lee">a-lee</term>.</i></p>
+
+        <p>The green hand must get the above information firmly fixed in his mind, as it will save
+            him lots of future trouble. I have met men who have sailed for years who confuse these
+            orders through not thoroughly understanding what they mean.</p>
+
+        <p>You will frequently hear a man when conning the <term keyref="helm">helm</term> of a
+            boat—that is, directing the steering—tell the helmsman to <i>keep off</i>, meaning by
+            that to put the <term keyref="helm">helm</term> up and cause the boat to move further
+            away from the wind or <term keyref="course">course</term> which the boat has been
+            holding; or else he will order the helmsman to <term keyref="luff">luff</term>, meaning
+            for him to put the <term keyref="helm">helm</term> down, and bring the boat's <term
+                keyref="bow">bow</term> nearer to the wind.</p>
+
+        <p>The order to <i>steady</i> or <i>right</i> the <term keyref="helm">helm</term> means to
+            bring the tiller <term keyref="amidships">amidships</term>, or in such position that it
+            does not influence the boat in either direction.</p>
+
+        <p>Large boats are steered by a wheel, which is simply an apparatus used to give additional
+            power, so that the <term keyref="helm">helm</term> can be turned easily; but as we are
+            dealing with small boats using a tiller, we will not bother at present to understand its
+            working.</p>
+
+        <fig>
+            <title>A Sailing Dory</title>
+            <image href="../images/illus-031.jpg"/>
+        </fig>
+
+    </conbody>
+</concept>

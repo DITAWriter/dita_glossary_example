@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="to_anchor">
+    <title>To Anchor</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The one prime rule of anchoring is never to let go the <term keyref="anchor"
+                    >anchor</term> until the boat has stopped going <term keyref="ahead"
+                    >ahead</term> and is beginning to go sternwards. In this way you prevent the
+                    <term keyref="anchor">anchor</term> being turned over, and brought <term
+                    keyref="foul">foul</term> of the hawser. Always give an <term keyref="anchor"
+                    >anchor</term> plenty of line or <term keyref="scope">scope</term> as it is
+                called. Six times the depth of water is sufficient under ordinary conditions. In bad
+                weather give all you can spare.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

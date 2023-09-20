@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="running_lights">
+    <title>Running Lights</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <p>A sailing vessel, when running at night, carries a green light on her <term
+                    keyref="starboard">starboard</term> side, and a red light on her <term
+                    keyref="port">port</term> side. Such lights are generally carried in the
+                rigging, about six feet above the rail.</p>
+            <p>A rowboat must carry a white light in a lantern to show when in danger of being run
+                down.</p>
+            <p>A steam vessel carries the same lights as a sailing vessel, with the addition of a
+                white light at the foremast head, or on launches on top of the pilot house.</p>
+            <p>A steam vessel, when towing another vessel, carries two white lights; if she is
+                towing more than one vessel, tandem fashion, she shall carry three white lights.</p>
+        </section>
+    </refbody>
+</reference>

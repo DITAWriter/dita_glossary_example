@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="nomenclature_of_rigging_and_sail">
+    <title>Nomenclature of Rigging and Sail</title>
+    <shortdesc/>
+    <refbody>
+        <section>
+            <title/>
+            <dl>
+                <dlentry>
+                    <dt>Downhaul</dt>
+                    <dd>A rope for hauling down a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Clewline</dt>
+                    <dd>A line used to draw together a sail so that it can be easily furled.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Halyards</dt>
+                    <dd>The tackles by which a sail is hoisted.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Guys</dt>
+                    <dd>Are ropes used to support or control a spar, and are either permanent or
+                        shifting. On spars they generally act in opposition to the sheet.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Topping lift</dt>
+                    <dd>A rope or <term keyref="tackle">tackle</term> for lifting and holding up the
+                        end of a <term keyref="boom">boom</term>.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Sheet</dt>
+                    <dd>The rope or <term keyref="tackle">tackle</term> by which a sail is
+                        controlled or trimmed. It is made fast to the clew of the sail, or to the
+                            <term keyref="boom">boom</term>.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Shrouds</dt>
+                    <dd>Ropes generally of wire employed to support a mast or <term
+                            keyref="bowsprit">bowsprit</term> by holding it sideways. They are
+                        attached to the rail by chain plates, and are set up with either lanyards or
+                        rigging screws.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Stays</dt>
+                    <dd>Ropes used to support or control a spar in a <term keyref="fore_and_aft"
+                            >fore-and-aft</term> direction.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Luff</dt>
+                    <dd>The <term keyref="fore">fore</term> edge of a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Leach</dt>
+                    <dd>The after edge of a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Head</dt>
+                    <dd>The upper edge of a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Foot</dt>
+                    <dd>The lower edge of a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Peak</dt>
+                    <dd>The upper outer corner of a triangular sail, also the upper corner of a jib
+                        or <term keyref="gaff">gaff</term> topsail. In this book the more common
+                        name <i>head</i> is used. See sail plans.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Throat</dt>
+                    <dd>The upper <term keyref="fore">fore</term> corner of a triangular sail, also
+                        called the <i>nock</i>.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Tack</dt>
+                    <dd>The lower <term keyref="fore">fore</term> corner of a sail.</dd>
+                </dlentry>
+            </dl>
+            <dl>
+                <dlentry>
+                    <dt>Clew</dt>
+                    <dd>The after lower corner of a sail.</dd>
+                </dlentry>
+            </dl>
+            <fig>
+                <title>Beating or Sailing to Windward</title>
+                <image href="../images/illus-033.jpg"/>
+            </fig>
+        </section>
+    </refbody>
+</reference>
