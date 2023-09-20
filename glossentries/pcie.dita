@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+
+<glossentry id="pcie" xml:lang="en">
+    <glossterm>Peripheral Component Interconnect Express</glossterm>
+    <glossdef>PCI Express is a high-speed serial computer bus standard, and is the common motherboard interface used for graphics cards and other components.</glossdef>
+    <glossBody>
+        <glossSurfaceForm>PCI Express (PCIe)</glossSurfaceForm>
+        <glossAlt>
+            <glossAcronym>PCIe</glossAcronym>
+        </glossAlt>
+    </glossBody>
+</glossentry>
